@@ -1,8 +1,17 @@
-# Olá!
+## Olá!
 
 Meu nome é Anna Karla.
 
-Sou advogada tributarista com mestrado em Ciências Jurídicas pela UFPB e, atualmente, estou em transição de carreira para a programação, buscando através dela alcançar flexibilidade e liberdade. 
+- 👩🏻‍💼 Sou advogada tributarista;
+- 👩🏻‍🏫 Tenho Mestrado em Ciências Jurídicas pela UFPB;
+- 📍 Em transição de carreira para a área de programação;
+- 🌱 Estudando JavaScript, HTML5/CSS, NodeJs, GIT e Estrutura de Dados.
 
-No momento, tenho estudado HTML 5, CSS, Java Script, NodeJs, GIT, Lógica de Programação, Programação Orientada a Objetos, Estrutura de Dados e SQL. 
+##
 
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Anna-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Anna-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Anna-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+</div>
