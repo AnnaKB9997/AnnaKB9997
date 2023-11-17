@@ -5,7 +5,7 @@ Meu nome é Anna Karla.
 - 👩🏻‍💼 Sou advogada tributarista;
 - 👩🏻‍🏫 Tenho Mestrado em Ciências Jurídicas pela UFPB;
 - 📍 Em transição de carreira para a área de programação;
-- 🌱 Estudando JavaScript, HTML5/CSS, GIT e Lógica de Programação.
+- 🌱 Estudando JavaScript com React, HTML5/CSS, GIT e Lógica de Programação.
 
 ##
 
